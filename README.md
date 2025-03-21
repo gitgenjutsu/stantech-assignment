@@ -12,11 +12,13 @@ SCSS Styling for a modular and maintainable design
 
 Installation
 
-Clone the repository: git clone and paste https url
+Clone the repository: git clone and paste https url [https://github.com/gitgenjutsu/stantech-assignment.git]
 
 Install dependencies: npm install
 
 Start the development server: npm run dev
+
+Start the test server: npm test
 
 The app fetches a post from JSONPlaceholder API and stores it in Redux:
 
